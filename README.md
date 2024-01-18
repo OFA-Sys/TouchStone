@@ -27,8 +27,22 @@ TouchStone leverages fine-grained annotation and strong LLMs to evaluate LVLMs. 
 <p align="center">
     <img src="assets/pipeline.jpg" width="600"/>
 <p>
+    
+## New Results
 
-
+    
+| Rank |                            Model                             |     Score    |
+| :--: | :----------------------------------------------------------: |  :---------: |
+|  🏅️   |     **[GPT-4V](https://platform.openai.com/docs/guides/vision)** |  **803.5**  |
+|  🥈   |     **[CogVLM](https://github.com/THUDM/CogVLM)**                |   **742.0** |
+|  🥉   |     **[Qwen-VL](https://github.com/QwenLM/Qwen-VL)**             | **711.6**   |
+|  4   |      [Emu2](https://github.com/baaivision/Emu/tree/main/Emu2)     |   703.8     |
+|  5   |      [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl)             |    605.4    |
+|  6   |      [LLaVA](https://github.com/haotian-liu/LLaVA)                |    602.7    |
+|  7   |      [LLaMA-AdapterV2](https://github.com/OpenGVLab/LLaMA-Adapter) |    590.1   |
+|  8   |      [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) |   552.4   |
+|  9   |      [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)         |    531.7   |
+|  10  |      [PandaGPT](https://github.com/yxuansu/PandaGPT)              |    488.5   |
 
 ## Evaluation Results
 
